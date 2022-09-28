@@ -12,6 +12,7 @@ public class cinemaManager {
     static int totalCapacity;
     static int currentIncome;
     static int totalincome;
+    
 
 
 
